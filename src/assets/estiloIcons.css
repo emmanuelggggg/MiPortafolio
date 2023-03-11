@@ -17,14 +17,14 @@
     filter: none;
 }
 
-.iconos ul li .facebook:hover{
-    background-color: #3b5998;
+.iconos ul li .google:hover{
+    background-color: #DF2E38;
 }
 .iconos ul li .twitter:hover{
     background-color: #00acee;
 }
-.iconos ul li .youtube:hover{
-    background-color: #c4302b;
+.iconos ul li .linkedin:hover{
+    background-color: #0077B5;
 }
 .iconos ul li .gitHub:hover{
     background-color: black;
