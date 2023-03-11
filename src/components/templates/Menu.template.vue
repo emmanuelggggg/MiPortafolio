@@ -23,7 +23,7 @@
                 <button class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" data-bs-target="#feedbackModal">
                     <span class="d-flex align-items-center">
                         <i class="bi-chat-text-fill me-2"></i>
-                        <a class="text-white" style="text-decoration: none;" href="../../pdf/cvemmanuel.pdf" download="CV_JesusEmmanuel_00">Download CV</a>
+                        <a class="text-white" style="text-decoration: none;" href="/src/assets/pdf/cvemmanuel.pdf" download="cvEmmanuel.pdf" >Download CV</a>
                     </span>
                 </button>
             </div>
